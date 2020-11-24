@@ -1,1 +1,1 @@
-This is inventory system for electric shop using Java, MySql & netbeans
+This is inventory system for electric shop using Java, MySql & Netbeans
