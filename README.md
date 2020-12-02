@@ -1,1 +1,7 @@
-This is inventory system for electric shop using Java, MySql & Netbeans
+# Eastern Enterprice
+
+This is inventory system for electric shop
+
+# Technologies
+
+Java, Netbeans, MySql
