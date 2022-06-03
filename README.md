@@ -1,6 +1,6 @@
 # Eastern Enterprice
 
-This is inventory system for electric shop
+Inventory system for electric shop
 
 # Technologies
 
