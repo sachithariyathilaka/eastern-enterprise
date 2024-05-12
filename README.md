@@ -1,4 +1,4 @@
-# Eastern Enterprice
+# Eastern Enterprise
 
 Inventory system for electric shop
 
@@ -10,6 +10,6 @@ Inventory system for electric shop
 * ### Release Note
   * Release: 1.0.0
   * Date: 2020/11/24
-  * Module: Eastern Enterprice
+  * Module: Eastern Enterprise
   * Changes
     * Implements the inventory system related backend and frontend functionalities.
